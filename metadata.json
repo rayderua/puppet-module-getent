@@ -1,6 +1,6 @@
 {
   "name": "rayder-getent",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "rayder",
   "summary": "Collect getent facts via getent",
   "license": "Apache-2.0",
@@ -9,10 +9,10 @@
   "issues_url": "https://github.com/rayder/puppet-module-getent/issues",
   "operatingsystem_support": [
     {
-      "operatingsystem": "Debian",
+      "operatingsystem": "Debian"
     },
     {
-      "operatingsystem": "Ubuntu",
+      "operatingsystem": "Ubuntu"
     },
     {
       "operatingsystem": "openSUSE"
